@@ -1,0 +1,5 @@
+"Part";"Value";"Device";"Package";"Description";"DIGIKEY_PART";"PART_NUMBER";
+"JP1";"M03LOCK";"M03LOCK";"1X03_LOCK";"Header 3";"";"";
+"R1";"60.4";"RESISTOR2010";"R2010";"Resistor";"541-60.4ACCT-ND ";"";
+"U$1";"INFRARED_LED";"INFRARED_LED";"MINI_MIDLED";"";"";"";
+"U$2";"N-CH_MOSFET";"N-CH_MOSFET";"SOT-416";"";"2SK3019TLCT-ND";"2SK3019TL";
